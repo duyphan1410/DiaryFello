@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "426887880507",
+    "project_id": "myproject-eb253",
+    "storage_bucket": "myproject-eb253.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426887880507:android:584ab2e5b1524d723a211e",
+        "android_client_info": {
+          "package_name": "com.anonymous.feelio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6LVwQ8m1kUFYAYT-bbBm4tphQZIVE59k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
